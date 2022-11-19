@@ -1,7 +1,9 @@
 .App .App-header {
+  font-size: 48px;
   text-align: center;
+  margin: 40px;
 }
 
-.App .btn {
-  text-align: center;
+.App .App-footer {
+  margin: 30px;
 }
