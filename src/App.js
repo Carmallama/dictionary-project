@@ -11,7 +11,12 @@ function App() {
         </main>
         <footer className="App-footer text-center">
           Coded by{" "}
-          <a href="https://github.com/Carmallama/dictionary-project">Carm</a>
+          <a
+            href="https://github.com/Carmallama/dictionary-project"
+            target="_blank"
+          >
+            Carm
+          </a>
         </footer>
       </div>
     </div>
