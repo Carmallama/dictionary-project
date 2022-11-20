@@ -14,6 +14,7 @@ function App() {
           <a
             href="https://github.com/Carmallama/dictionary-project"
             target="_blank"
+            rel="noreferrer"
           >
             Carm
           </a>
