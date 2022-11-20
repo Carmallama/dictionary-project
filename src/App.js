@@ -9,7 +9,10 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="App-footer text-center">Coded by Carm</footer>
+        <footer className="App-footer text-center">
+          Coded by{" "}
+          <a href="https://github.com/Carmallama/dictionary-project">Carm</a>
+        </footer>
       </div>
     </div>
   );
