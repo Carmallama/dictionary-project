@@ -12,6 +12,8 @@
   color: #272044;
   max-width: 960px;
   margin: 0 auto;
+  margin-top: 10px;
+  border-radius: 5px;
 }
 
 a {
