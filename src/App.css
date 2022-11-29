@@ -1,9 +1,21 @@
 .App .App-header {
   font-size: 48px;
   text-align: center;
-  margin: 40px;
 }
 
 .App .App-footer {
   margin: 30px;
+}
+
+.App {
+  background: #f9f7fc;
+  color: #272044;
+}
+
+a {
+  color: #b88df7;
+}
+
+a:hover {
+  color: #873ff2;
 }

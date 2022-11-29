@@ -1,0 +1,10 @@
+.Synonyms li {
+  display: inline-block;
+  padding-right: 15px;
+}
+
+.Synonyms ul :hover {
+  color: #b78cf7;
+  font-weight: bold;
+  cursor: pointer;
+}
